@@ -21,7 +21,6 @@
     "virtio_ring.ko": "",
     "virtio_mmio.ko": "",
     "virtio_pci.ko": "",
-    "virtio_blk.ko": "",
     "virtio_net.ko": "",
     "virtio_scsi.ko": "",
     "9pnet.ko": "",
